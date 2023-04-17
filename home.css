@@ -1,0 +1,144 @@
+*{
+    padding: 5px;
+    margin: 0px;
+    /* background-color: honeydew; */
+}
+
+nav {
+    margin: -20px;
+    padding: -20px;
+    background-color: white;
+    height: 10vh;
+}
+
+ul {
+    display: inline;
+    background-color: white;
+}
+
+li {
+    float: left;
+    display: inline;
+    background-color: white;
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+}
+
+ol {
+    float: right;
+    margin-right: 200px;
+}
+
+legend {
+    width: 32%;
+    margin: auto;
+    margin-top: 10%;
+    height: 650px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lavender ;
+    border-radius: 8px;
+}
+
+div h3 {
+    margin-top: 4%;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: orange;
+}
+
+div h2 {
+    margin-top: 0%;
+    text-align: center;
+    color: orange;
+    font-size: 400%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 180%;
+}
+
+h4 {
+    text-align: center;
+    font-size: 80%;
+}
+
+label b {
+    margin-top: 50%;
+    margin-left: 10%;
+}
+
+label input {
+    border-radius: 15px;
+    width: 330px;
+    height: 48px;
+    margin-left: 45px;  
+}
+
+div.container {
+    /* display: flex; */
+}
+
+h5 {
+   padding-left: 40px;
+   font-size: 15px;
+}
+
+h6 {
+    font-size: 15px;
+    float: right;
+    padding-right: 30px;
+    margin-top: -27px;
+}
+
+button {
+    background-color: rgb(230, 211, 48);
+    width: 330px;
+    margin-left: 45px; 
+    border-radius: 10px;
+    height: 48px;
+    font-size: 15px;
+    border-bottom: 5px solid black;
+}
+
+main {
+    text-align: center;
+    margin-top: 20px;
+    letter-spacing: 0.58px;
+}
+
+span {
+    height: 10vh;
+    width: auto;
+    padding: -10px;
+    margin: -20px;
+    color: white;
+    background-color: blue;
+    display: flex;
+}
+
+span p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 35px;
+    padding-top: 20px;
+}
+
+span ul {
+    float: right;
+    margin-left: 700px;
+}
+
+span li {
+    margin: -5px;
+    color: white;
+    background-color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.class ul {
+    background-color: blue;
+}

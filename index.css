@@ -1,0 +1,158 @@
+* {
+    margin: 10px;
+    padding: 0px;
+}
+
+section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav {
+    padding: 30px
+}
+
+ul {
+    text-decoration: none;
+    float: left;
+    margin-top: -27px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+
+br {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+legend {
+    float: right;
+    margin-top: -50%;
+}
+
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 100px;
+    margin-left: 90px;
+}
+
+h1 {
+    padding-bottom: 20px;
+    font-size: 250%;
+}
+
+p {
+    font-size: 110%;
+    letter-spacing: 2px;
+    line-height: 180%; 
+}
+img{
+    margin-left: 60%;
+    margin-top: -250px;
+    width: 500px;
+}
+    
+span {
+    float: right;
+    margin-top: -82px;
+}
+
+section.container {
+    width: 85%;
+    margin: auto;
+    padding: 10px 10px;
+    margin-top: -6%;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+h3 {
+    margin: 95px;
+    margin-top: -100px;
+    padding-left: -500px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    border: 1px green;
+    /* background-color: rgb(219, 219, 219) */
+}
+
+section div {
+    margin-top: -10px;
+    display: flex;
+}
+
+/* span p {
+    float: left;
+    display: flex;
+    font-size: 50px;
+} */
+
+/* span p {
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+.container input {
+    padding: 30px;
+    width: 100%;
+    border-radius: 10px;
+    border-color: blue;
+    border-top: 30px;
+    border-left: 30px;
+    border-right: 30px;
+    border: 3px solid blue;
+}
+
+.container button {
+    width: 50%;
+    background-color:rgb(255, 102, 0); 
+    border-radius: 10px;
+    font-size: 80%;
+    border-color: black;
+    border-top: 30px;
+    border-left: 30px;
+    border-right: 30px;
+    border-bottom: 5px solid black;
+}
+
+i class {
+    font-size: 80%;
+}
+
+.container b {
+    margin-left: 7%;
+}
+
+/* .space {
+    font-size: 150%;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+.hub {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150px;
+    float: left;
+    padding-left: -1000px;
+}
+
+h5 {
+    margin-left: 100px;
+    margin-top: -90px;
+    display: flex;
+    font-size: 100%;
+}
+
+h6 {
+    font-size: 100%;
+    float: right;
+    color: black;
+    margin-right: 100px;
+    margin-top: -50px;
+}
